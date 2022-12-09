@@ -3,6 +3,6 @@
 Stay hungry. Stay foolish.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CnLzh&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CnLzh&show_icons=true&theme=dark) <img align="right" width="300" height="435" src="https://github.com/CnLzh/CnLzh/blob/main/README.GIF">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnlzh&show_icons=true&theme=dark) <img align="right" width="300" height="300" src="https://github.com/CnLzh/CnLzh/blob/main/README.png">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnlzh&show_icons=true&theme=dark) 

@@ -1,4 +1,4 @@
-# 人生若只如初见 何事秋风悲画扇 :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :white_heart: :brown_heart:
+# 人生若只如初见 何事秋风悲画扇 :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :black_heart:
 
 Stay hungry. Stay foolish.
 

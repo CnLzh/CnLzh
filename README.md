@@ -1,6 +1,6 @@
 # 人生若只如初见 何事秋风悲画扇 :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :black_heart:
 
-须知少年凌云志 曾许人间第一流
+:ghost: 须知少年凌云志 曾许人间第一流 :dash:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CnLzh&theme=onedark&column=-1)
 
